@@ -8,11 +8,11 @@
 		<version>3.3.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.okd</groupId>
-	<artifactId>TicketingV2</artifactId>
+	<groupId>com.example</groupId>
+	<artifactId>V5_Ticketing</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>TicketingV2</name>
+	<name>V5_Ticketing</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
